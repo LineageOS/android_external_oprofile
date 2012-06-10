@@ -1,0 +1,9 @@
+Change-Id: Ia6ba67bd6556909d9c4f5384d40b44a81c87f005
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Code-Review+1: Bernhard Rosenkraenzer <Bernhard.Rosenkranzer@linaro.org>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Sun, 10 Jun 2012 06:52:57 +0400
+Reviewed-on: http://review.cyanogenmod.com/17370
+Project: CyanogenMod/android_external_oprofile
+Branch: refs/heads/ics
