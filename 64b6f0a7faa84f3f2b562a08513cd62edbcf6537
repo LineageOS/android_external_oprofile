@@ -1,0 +1,13 @@
+Change-Id: I64b6f0a7faa84f3f2b562a08513cd62edbcf6537
+Code-Review+2: Danny Baumann <dannybaumann@web.de>
+Verified+1: Danny Baumann <dannybaumann@web.de>
+Code-Review+1: Taichi Nishimura <fuzzzzzzzzzzzzzzzzzz@gmail.com>
+Code-Review+1: Yanuar Harry <ai.the.smarties.physics@gmail.com>
+Code-Review+1: Yuliyan Lesev <jlesev@gmail.com>
+Code-Review+1: Andriy Podanenko <podarokua@gmail.com>
+Code-Review+1: djMesias <djmesias@terra.es>
+Submitted-by: Danny Baumann <dannybaumann@web.de>
+Submitted-at: Tue, 18 Sep 2012 02:46:09 -0400
+Reviewed-on: http://review.cyanogenmod.com/13781
+Project: CyanogenMod/android_external_oprofile
+Branch: refs/heads/gingerbread
